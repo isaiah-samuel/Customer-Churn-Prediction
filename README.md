@@ -54,7 +54,7 @@ I designed, trained, and deployed a complete **Customer Churn Prediction System*
 | **4. Model Building** | Tested Logistic Regression, Random Forest, and XGBoost |
 | **5. Evaluation** | Used ROC-AUC, precision, recall, and F1-score |
 | **6. Explainability** | Applied SHAP to interpret model predictions |
-| **7. Deployment** | Deployed the trained model as a Flask/Streamlit web app |
+| **7. Deployment** | Deployed the trained model as a Streamlit web app |
 
 ---
 
